@@ -24,3 +24,5 @@ A resource center for articles, books, videos, and tools to support continuous l
 [Storytelling With Data](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257) 
 
 [How to Lie with Statistics](https://www.amazon.com/How-to-Lie-with-Statistics-audiobook/dp/B01C4RPH8Q/ref=sr_1_1?crid=20RVWU1OFEZNA&dib=eyJ2IjoiMSJ9.JD2gNSEx1mW4l2jem030bSEuWCeXDBs1kNxGY9o-QA7aiC7JKD5qznN0D-YQOfcezb0hoEq2zQG-zMg8wYIrp3KmG8dY9wQRhh_-Y0kc8-wz6cseALirgVK_uMpC_Aqvb8Q2ejC3p0TZTmpqJg1N1d474CWqo5ATHOQbmshP3DY8K9mjglrC_EDW4cyS1bdg92pAzWrilXzLNmZPVQg7lDdzSdoxzYL71IvwzFEbaTZOk9dFuYVNZR2RAtr44ZdR8YTyLwspDR7YqNEzJqT6Fi7m4ZePBicKKvFSKF8GZ-s._4dPSENCu78a5hKYOGBZ1_eY_Z04ap78kiA8R83nnJc&dib_tag=se&keywords=how+to+lie+with+data&qid=1720931128&s=books&sprefix=how+to+lie+with+data%2Cstripbooks%2C138&sr=1-1) 
+
+[A Whole New Mind](https://www.amazon.com/Whole-New-Mind-Right-Brainers-Future/dp/1594481717)
