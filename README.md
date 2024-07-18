@@ -27,6 +27,8 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 [A Whole New Mind](https://www.amazon.com/Whole-New-Mind-Right-Brainers-Future/dp/1594481717)
 
+[Co-Intelligence](https://www.amazon.ca/Co-Intelligence-Living-Working-Ethan-Mollick/dp/059371671X)
+
 ## Open Data Sets
 
 [State of Utah Open Data Catalog](https://opendata.utah.gov/)
