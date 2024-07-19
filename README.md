@@ -31,5 +31,5 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 ## Open Data Sets
 
-[State of Utah Open Data Catalog](https://opendata.utah.gov/)
+[State of Utah Open Data Catalog](https://opendata.utah.gov)
      
