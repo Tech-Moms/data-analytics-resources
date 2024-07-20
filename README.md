@@ -29,6 +29,8 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 [Co-Intelligence](https://www.amazon.ca/Co-Intelligence-Living-Working-Ethan-Mollick/dp/059371671X)
 
+[Orchestrating Life-Work Harmony](https://www.amazon.com/Orchestrating-Life-Work-Harmony-Life-First-Courageous-ebook/dp/B0CB9LYYYQ)
+
 ## Open Data Sets
 
 [State of Utah Open Data Catalog](https://opendata.utah.gov)
