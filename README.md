@@ -41,6 +41,8 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 [5 GitHub Tips for New Coders](https://medium.com/free-code-camp/5-github-tips-for-new-coders-2f312689ffd5)
 
+[How to Measure Cohort Retention](https://open.substack.com/pub/lenny/p/measuring-cohort-retention?r=720ty&utm_campaign=post&utm_medium=email)
+
 ## Continuing Education
 
 [Weber State Data Analytics Certificate](https://www.weber.edu/goddard/DataAnalyticsCertificate.html) 
