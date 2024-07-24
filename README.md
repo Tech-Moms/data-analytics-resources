@@ -39,6 +39,8 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 [Barbie and Oppenheimer](https://celestemdavis.substack.com/p/barbie-and-oppenheimer-which-is-the?utm_source=substack&publication_id=860502&post_id=146797540&utm_medium=email&utm_content=share&utm_campaign=email-share&triggerShare=true&isFreemail=false&r=720ty&triedRedirect=true) 
 
+[5 GitHub Tips for New Coders](https://medium.com/free-code-camp/5-github-tips-for-new-coders-2f312689ffd5)
+
 ## Continuing Education
 
 [Weber State Data Analytics Certificate](https://www.weber.edu/goddard/DataAnalyticsCertificate.html) 
