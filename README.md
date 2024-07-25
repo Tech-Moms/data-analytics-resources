@@ -45,6 +45,8 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 [How to Measure Cohort Retention](https://open.substack.com/pub/lenny/p/measuring-cohort-retention?r=720ty&utm_campaign=post&utm_medium=email)
 
+[Quickstart for Writing in Markdown on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
+
 ## Continuing Education
 
 [Weber State Data Analytics Certificate](https://www.weber.edu/goddard/DataAnalyticsCertificate.html) 
