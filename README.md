@@ -19,6 +19,8 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 [Thu Vu Analytics](https://www.youtube.com/@Thuvu5) - Data Science / Career / Life 
 
+[Excel Dictionary](https://www.youtube.com/@ExcelDictionary) - Excel tips and tricks
+
 ## Books 
 
 [Storytelling With Data](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257) 
