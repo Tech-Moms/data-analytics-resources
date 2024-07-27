@@ -62,4 +62,8 @@ A resource center for articles, books, videos, and tools to support continuous l
 [SQL Practice](https://www.sql-practice.com/) 
 
 [SQL Bolt](https://sqlbolt.com/)
+
+## Courses 
+
+[Intro to Git and GitHub](https://teamtreehouse.com/library/github-basics)  
      
