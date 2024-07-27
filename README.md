@@ -21,6 +21,8 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 [Excel Dictionary](https://www.youtube.com/@ExcelDictionary) - Excel tips and tricks
 
+[Storytelling with Data](https://www.youtube.com/@storytellingwithdata) 
+
 ## Books 
 
 [Storytelling With Data](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257) 
