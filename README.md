@@ -23,6 +23,8 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 [Storytelling with Data](https://www.youtube.com/@storytellingwithdata) 
 
+[Datalyser](https://www.youtube.com/@danalyser)
+
 ## Books 
 
 [Storytelling With Data](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257) 
