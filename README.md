@@ -65,6 +65,8 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 [SQL Bolt](https://sqlbolt.com/)
 
+[Command Line Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
+
 ## Courses 
 
 [Intro to Git and GitHub](https://teamtreehouse.com/library/github-basics)  
