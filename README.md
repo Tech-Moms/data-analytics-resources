@@ -70,4 +70,6 @@ A resource center for articles, books, videos, and tools to support continuous l
 ## Courses 
 
 [Intro to Git and GitHub](https://teamtreehouse.com/library/github-basics)  
+
+[Intro to Google Sheets](https://app.pluralsight.com/library/courses/google-sheets-2/table-of-contents) - Pluralsight
      
