@@ -69,7 +69,17 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 ## Courses 
 
-[Intro to Git and GitHub](https://teamtreehouse.com/library/github-basics)  
+[Intro to Git and GitHub](https://teamtreehouse.com/library/github-basics) - Treehouse 
 
 [Intro to Google Sheets](https://app.pluralsight.com/library/courses/google-sheets-2/table-of-contents) - Pluralsight
+
+## BI Tooling
+
+[Tableau](https://www.tableau.com/learn)
+
+[Looker Data Studio](https://lookerstudio.google.com/)
+
+[Hex](https://hex.tech/) 
+
+
      
