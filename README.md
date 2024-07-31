@@ -81,5 +81,9 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 [Hex](https://hex.tech/) 
 
+## Analysis 
+
+[Data Analysis of Licensed Drivers in the USA](https://deepnote.com/app/data-analytics-playroom-daj/Analysis-3354e600-3cd3-4c06-866f-97f3eb21a5df?utm_source=substack&utm_medium=email) - using Deepnote / Python / SQL 
+
 
      
