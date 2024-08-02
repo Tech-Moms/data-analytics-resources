@@ -39,6 +39,10 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 [Orchestrating Life-Work Harmony](https://www.amazon.com/Orchestrating-Life-Work-Harmony-Life-First-Courageous-ebook/dp/B0CB9LYYYQ)
 
+[Naked Statistics: Stripping the Dread from the Data](https://www.amazon.com/Naked-Statistics-Stripping-Dread-Data/dp/039334777X/) - by Charles Wheelan
+
+[Becoming a Data Head](https://www.amazon.com/Becoming-Data-Head-Understand-Statistics/dp/1119741742) - by Alex J. Gutman, Jordan Goldmeier
+
 ## Open Data Sets
 
 [State of Utah Open Data Catalog](https://opendata.utah.gov)
