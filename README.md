@@ -73,6 +73,8 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 [Command Line Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
 
+[DataLemer]) - SQL interview practice questions 
+
 ## Courses 
 
 [Intro to Git and GitHub](https://teamtreehouse.com/library/github-basics) - Treehouse 
