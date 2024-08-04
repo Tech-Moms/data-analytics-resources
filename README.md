@@ -57,6 +57,7 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 [Quickstart for Writing in Markdown on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 
+
 ## Continuing Education
 
 [Weber State Data Analytics Certificate](https://www.weber.edu/goddard/DataAnalyticsCertificate.html) 
@@ -88,6 +89,8 @@ A resource center for articles, books, videos, and tools to support continuous l
 [Looker Data Studio](https://lookerstudio.google.com/)
 
 [Hex](https://hex.tech/) 
+
+[Power BI](https://learn.microsoft.com/en-us/training/powerplatform/power-bi)
 
 ## Analysis 
 
