@@ -57,6 +57,8 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 [Quickstart for Writing in Markdown on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 
+[Data Analyst vs Data Scientist](https://www.freecodecamp.org/news/data-analyst-vs-data-scientist-whats-the-difference/)
+
 ## Continuing Education
 
 [Weber State Data Analytics Certificate](https://www.weber.edu/goddard/DataAnalyticsCertificate.html) 
@@ -74,6 +76,8 @@ A resource center for articles, books, videos, and tools to support continuous l
 [Command Line Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
 
 [DataLemer]) - SQL interview practice questions 
+
+[Code Wars](https://www.codewars.com/kata/search/my-languages?q=&tags=SQL&beta=false&order_by=sort_date%20desc) - SQL Practice questions (and Competition if you like)
 
 ## Courses 
 
