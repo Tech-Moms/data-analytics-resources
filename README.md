@@ -9,7 +9,7 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 [How to Make Learning as Addictive as Social Media - TED talk](https://www.youtube.com/watch?v=P6FORpg0KVo&t=2s)
 
-[Git and GitHub Tutorial for Beginners](https://www.youtube.com/watch?v=tRZGeaHPoaw&t=634s)
+[Git and GitHub Tutorial for Beginners](https://www.youtube.com/watch?v=tRZGeaHPoaw&t=634s) - Git (Start at 0:43), GitHub (Start at 32:38)
 
 ### YouTube Channels
 
