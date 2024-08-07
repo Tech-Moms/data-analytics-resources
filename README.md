@@ -77,7 +77,7 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 [Command Line Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
 
-[DataLemer]) - SQL interview practice questions 
+[DataLemer](https://datalemur.com/) - SQL interview practice questions 
 
 [Code Wars](https://www.codewars.com/kata/search/my-languages?q=&tags=SQL&beta=false&order_by=sort_date%20desc) - SQL Practice questions (and Competition if you like)
 
