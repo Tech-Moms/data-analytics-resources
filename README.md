@@ -61,6 +61,8 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 [Data Analyst vs Data Scientist](https://www.freecodecamp.org/news/data-analyst-vs-data-scientist-whats-the-difference/)
 
+[21 Data Science Take Home Challenges](https://www.interviewquery.com/p/data-science-takehome-challenges)
+
 ## Continuing Education
 
 [Weber State Data Analytics Certificate](https://www.weber.edu/goddard/DataAnalyticsCertificate.html) 
