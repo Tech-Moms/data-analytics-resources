@@ -97,6 +97,8 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 [Hex](https://hex.tech/) 
 
+[Deepnote](www.deepnote.com)
+
 [Power BI](https://learn.microsoft.com/en-us/training/powerplatform/power-bi)
 
 ## Analysis 
