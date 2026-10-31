@@ -75,6 +75,8 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 ## Websites
 
+[JobEmerge](https://www.jobemerge.work) - AI career copilot: job-fit test, 19-language resume translator, Markdown editor. One-time pricing, no auto-renewal.
+
 [SQL Practice](https://www.sql-practice.com/) 
 
 [SQL Bolt](https://sqlbolt.com/)
